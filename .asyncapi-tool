@@ -1,17 +1,16 @@
 {
-    "title":"AsyncAPI Generator",
-    "description": "Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, Java code, HTML documentation, anything!",
-    "maintainers":[
-        "fmvilas", "derberg","magicmatatjahu"
-    ],
-    "links":{
-        "websiteUrl": "",
-        "docsUrl": "https://github.com/asyncapi/generator/tree/master/docs"
+    "title": "Sample Tool",
+    "description": "Tool for testing",
+    "maintainers": ["akshatnema"],
+    "links": {
+      "websiteUrl": "https://akshatnema.netlify.app",
+      "docsUrl": "", 
+      "iconUrl": "" 
     },
     "filters": {
-        "language": "Javascript",
-        "technology": ["Nodejs"],
-        "categories": ["generator"],
-        "isCommercial": false
+      "language": "javascript", 
+      "technology": ["react"],
+      "category": ["generator"],
+      "hasCommercial": false
     }
-}
+  }
