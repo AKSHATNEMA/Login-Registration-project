@@ -10,7 +10,7 @@
     "filters": {
       "language": "javascript", 
       "technology": ["react"],
-      "categories": ["generator"],
+      "categories": ["code generator"],
       "hasCommercial": false
     }
   }
