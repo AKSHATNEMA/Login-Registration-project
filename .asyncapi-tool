@@ -4,8 +4,7 @@
     "maintainers": ["akshatnema"],
     "links": {
       "websiteUrl": "https://akshatnema.netlify.app",
-      "docsUrl": "", 
-      "iconUrl": "" 
+      "docsUrl": ""
     },
     "filters": {
       "language": "javascript", 
